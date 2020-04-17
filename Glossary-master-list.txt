@@ -1,0 +1,181 @@
+51% attack (aka Consensus HiJacking)
+ABI (Application Binary Interface)
+API (Application Programming Interface)
+ASIC (Application Specific Integrated Circuit)
+Address
+Agreement Ledger
+Altcoin
+Attestation Ledger
+BTC
+Bitcoin 0.9 Standard Transaction Types
+Bitcoin ATM
+Bitcoin Block Header
+Bitcoin Currency Units
+Bitcoin Currency
+Bitcoin Payment System
+Bitcoin Transaction Locktime
+Bitcoin Tumbler
+Bitcoin Vanity Address
+Bitcoin halving
+Block Explorer
+Block Height
+Block Reward
+Block
+Blockchain 1.0
+Blockchain 2.0
+Blockchain 3.0
+Blockchain Applications
+Blockchain Developer
+Blockchain Embedded Mining
+Blockchain Hash
+Blockchain Mining Hardware
+Blockchain Mining
+Blockchain Network Operator
+Blockchain Network
+Blockchain Pruning
+Blockchain RTBF Risk
+Blockchain User
+Blockchain as a Service (BaaS) Providers
+Blockchain as a Service (BaaS)
+Blockchain
+Business logic layer
+CDN (Content Delivery Network)
+CRUD (Create, Read, Update, Delete)
+Casper
+Central Ledger
+Centralized
+Chain linking
+Chaincode Services
+Chaincode Standard Transaction Types
+Chaincode
+Chainwashing
+Cloudwashing
+Coin
+Cold wallet
+Confirmation
+Consensus Algorithms and Protocols
+Consensus Point
+Consortium blockchains
+Contract Accounts (Ethereum)
+Cryptocurrency
+Cryptographic Hashes
+Cryptojacking
+DAOs (Decentralized Autonomous Organization)
+DLT Interoperability
+Decentralized Apps (DAPPS)
+Decentralized Finance (DeFi)
+Difficulty
+Digest Access Authentication
+Digital Commodity
+Digital Signature
+Distributed Database
+Distributed Ledger
+Double Spending
+ECDSA Signatures (Elliptic Curve Digital Signature Algorithm)
+Elliptic Curve Cryptography (ECC)
+Ether
+Ethereum
+External Accounts (Ethereum)
+Fiat Currency
+Flash loan
+Fork
+Gas (Ethereum)
+Genesis Block
+Gossip Protocol
+HardFork
+Hashrate Denominations
+Hot Wallet
+Hyperledger
+IPFS (InterPlanetary File System)
+Intel Software Guard Extensions (SGX)
+Interledger Protocol (ILP)
+Light Node
+Litecoin
+MH per second (MHsec)
+Membership Services
+Merged Mining
+Merkle Root
+Merkle Tree
+Miner
+Mining Pool
+Mining Solo
+Mining
+Multi Signature
+NXT
+Nakamoto Consensus
+Node
+Nonce
+Off-Ledger Currency
+On-Ledger Currency
+OpenTransactions Project
+Opportunity loss
+Oracle
+Orphan Block
+Participant
+Peer-to-Peer Transaction Platforms
+Peer-to-peer (P2P)
+Peer
+Permissioned Ledger
+Private Blockchain
+Private Key
+Proof of Authority (PoA)
+Proof-of-Stake (PoS)
+Proof-of-Work (PoW)
+Public Blockchain
+QR (Quick Response) Code
+Replicated Ledger
+Ring Signature
+Ripple
+SHA (Secure Hash Algorithm)
+SHA-256
+SPV (Simplified Payment Verification)
+Satoshi Nakamoto
+Satoshi
+Schnorr Signatures
+Script
+Scrypt
+Segregated Witness (Segwit)
+Sharding
+Shared Ledger
+Sidechains
+Signature Scheme
+Simple Payment Verification (SPV)
+Smart Contract
+SoftFork
+Solidity
+State Channel
+Swarm
+Tainted % Bitcoin
+Testnet
+Timestamp Blockchain
+Timestamp Trusted
+Tokenless Ledger
+Tokens AssetBacked
+Tokens Intrinsic
+Traditional Data Source
+Transaction Block
+Transaction Fee
+Transaction
+Transactions Confirmed (CTXNs)
+Transactions Unconfirmed (UTXNs)
+Transactor
+Trusted Stamping Authority (TSA)
+Turing Completeness
+Unpermissioned (Permissionless) Ledgers
+Unspent Transaction Output (UTXO)
+User Agent
+User-facing application
+Validating Peer
+Vendor - Altcoins
+Vendors - Blockchain as a Service (BaaS)
+Virgin Bitcoin
+Wallet Distributed Denial-of-Service (DDOS)
+Wallet Hardware
+Weak Key Risk
+Wei
+Whisper (Ethereum)
+World State
+XBT
+Zero Confirmation Transaction
+ZeroKnowledge Proofs
+ZkSNARK (Zeroknowledge Succinct Noninteractive ARguments of Knowledge)
