@@ -21,8 +21,8 @@ with open(file_compare) as filedata_compare:
     lines_compare = [line.rstrip('\n') for line in filedata_compare]
 
 for item_in_compare in lines_compare:
-    comparision_results[item_in_compare] = process.extract(item_in_compare, lines_glossary)
-
+    comparision_results = process.extract(item_in_compare, lines_glossary)
+    print(comparision_results)
 # Now to decide how to present them to the user and what to do with them.
 #
 # How to handle:
