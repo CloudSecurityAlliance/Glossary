@@ -1,4 +1,4 @@
-# ZkSNARK (Zeroknowledge Succinct Noninteractive ARguments of Knowledge)
+# ZkSNARK (Zeroknowledge Succinct Noninteractive Arguments of Knowledge)
 
 are the cryptographic tools underlying Zcash (open, permissionless
 cryptocurrency protecting privacy of transactions using zero-knowledge
