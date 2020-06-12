@@ -1,9 +1,15 @@
 # Workflow for adding to and generating the glossary
 
-Files are named as the glossary term they represent, e.g. "Hash Function" would be "Hash Function.md"
+Files are named as the glossary term they represent, e.g. "Hash Function" would be "Hash Function.md". Any acronym should be spelled out first and then included in parentheses such as "Know Your Customer (KYC).md".
 
-Formatting of the file is simply a header with the term and then content at this time.
+The files live in the "glossary/[first character of filename]/" directories.
 
-The files live in the "glossary/[first character]/" directories.
+Please see [glossary-entry-template.md](glossary-entry-template.md) for an example entry and formatting.
 
-Please see [glossary-entry-template.md](glossary-entry-template.md) for an example entry.
+## Creating a new entry
+
+Simply fork the repo and create a Pull Request (PR) with the new term, it should ideally be self explanatory and clearly aligned with the glossary, if not we may ask questions to determine if it is suitable (e.g. vendor specific content is generally not encouraged in the glossary).
+
+## Updating an existing entry
+
+Simply fork the repo and create a Pull Request (PR) with the updated information, it should ideally be self explanatory and clearly aligned with the glossary, if not we may ask questions to determine if it is suitable (e.g. vendor specific content is generally not encouraged in the glossary).
