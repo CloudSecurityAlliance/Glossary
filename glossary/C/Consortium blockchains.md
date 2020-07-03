@@ -12,3 +12,4 @@ of the blockchain state. These blockchains may be considered "partially
 decentralized".
 Source: https://blog.ethereum.org/2015/08/07/on-public-and-privateblockchains/
 
+Tag: BlockchainArchitecture

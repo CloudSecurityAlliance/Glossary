@@ -13,3 +13,4 @@ to the quantity of economic resources that they can bring to bear. These
 blockchains are generally considered to be "fully decentralized".
 Source: https://blog.ethereum.org/2015/08/07/on-public-and-privateblockchains/
 
+Tag: BlockchainArchitecture
