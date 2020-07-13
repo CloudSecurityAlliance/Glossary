@@ -1,0 +1,3 @@
+# Decentralized
+
+Related: see Centralized
