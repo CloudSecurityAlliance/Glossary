@@ -6,7 +6,7 @@ import os
 
 root_dir = "glossary"
 
-fileoutput = "Glossary-master-list.txt"
+fileoutput = "Glossary-main-list.txt"
 
 with open(fileoutput, 'w') as results:
     for dir_, _, files in os.walk(root_dir):
