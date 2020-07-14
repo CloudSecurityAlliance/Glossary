@@ -6,7 +6,7 @@ import sys
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
-file_glossary = "Glossary-master-list.txt"
+file_glossary = "Glossary-main-list.txt"
 
 file_compare=sys.argv[1]
 
@@ -38,4 +38,4 @@ for item_in_compare in lines_compare:
 # 1-5 closest matches with the primary terms (actual score and entry?)
 # 1-5 closest matchees with the aliases (actual score and entry?)
 #
-# TODO: once we have aliases, we'll need the generate-Glossary-master-list.py to also generate a list of aliases in a file
+# TODO: once we have aliases, we'll need the generate-Glossary-main-list.py to also generate a list of aliases in a file
