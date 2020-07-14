@@ -2,10 +2,6 @@
 
 Default description and information goes here. This section is mandatory.
 
-## Category
-
-One or more categories go here, usually in the form TYPE:VALUE such as "DLT_Technology:Wallet". This section is optional.
-
 ## Alternate terms
 
 Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional.
@@ -14,18 +10,45 @@ Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is option
 
 Related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional.
 
-## Other Context: Name of Context
+## Tags
 
-A glossary item can have more than one definition if it exists in multiple contexts (e.g. as a generic DLT term but also an industry specific or widely used technology specific term). If so please list the context in the title and then put a definition and any additional special data. This section is mandatory if another context is listed.
+A list of tags and other labelled data.
 
-### Category
+# Context
 
-For a specific context, one or more categories go here, usually in the form TYPE:VALUE such as "DLT_Technology:Wallet". This section is optional.
+Another context for this term, usually in the form TYPE:VALUE such as "DLT_Technology:Wallet". This section is optional.
 
-### Alternate terms
+## Alternate terms
 
-For a specific context, alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional.
+Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional. It is specific to the context it is under.
 
-### Related terms
+## Related terms
 
-For a specific context, related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional.
+Related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional. It is specific to the context it is under.
+
+## Tags
+
+A list of tags and other labelled data. It is specific to the context it is under.
+
+**Tag examples:**
+
+DLT_Technology:DLT/Blockchain network
+DLT_Technology:Block
+DLT_Technology:Transaction
+DLT_Technology:Transaction fee
+DLT_Technology:Memory Pool
+DLT_Technology:Hard fork
+DLT_Technology:Soft Fork
+DLT_Technology:Proof of * System
+DLT_Technology:Consensus
+DLT_Technology:Governance
+DLT_Technology:Node
+DLT_Technology:Miner
+DLT_Technology:Mining pool
+DLT_Technology:Exchange
+DLT_Technology:User
+DLT_Technology:Smart Contract
+DLT_Technology:Digital Asset
+DLT_Technology:Wallet
+DLT_Technology:Oracle Client
+DLT_Technology:Oracle Service
