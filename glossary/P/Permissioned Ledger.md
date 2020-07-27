@@ -10,4 +10,6 @@ highly-verifiable data sets because the consensus process creates a digital
 signature, which can be seen by all parties. A permissioned ledger is usually
 faster than an unpermissioned ledger.
 
+## Tags
 
+Tag: BlockchainArchitecture
