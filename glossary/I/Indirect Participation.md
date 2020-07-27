@@ -4,4 +4,4 @@ Please also Direct Participation
 
 ## Tags
 
-Tags: BlockchainArchitecture
+Tag: BlockchainArchitecture
