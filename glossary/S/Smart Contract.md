@@ -11,3 +11,6 @@ creators, Nick Szabo, and referred to self-automated computer programs
 that can carry out the terms of any contract.
 Source: http://www.blockchaintechnologies.com/blockchain-smartcontracts#smart-contract-explained
 
+## Tags
+
+Tag: BlockchainArchitecture
