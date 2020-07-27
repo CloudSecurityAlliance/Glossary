@@ -7,3 +7,6 @@ the miner to receive small payments with a lower variance (shorter time
 between payments).
 Source: https://bitcoin.org/en/developer-guide#mining
 
+## Tags
+
+Tag: BlockchainArchitecture

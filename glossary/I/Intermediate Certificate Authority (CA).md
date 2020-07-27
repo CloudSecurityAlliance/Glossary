@@ -2,4 +2,6 @@
 
 Please also see Certificate Authority
 
-Tags: BlockchainArchitecture
+## Tags
+
+Tag: BlockchainArchitecture

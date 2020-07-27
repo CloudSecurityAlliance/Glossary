@@ -8,4 +8,6 @@ before committing them to a shared ledger.
 
 Source: http://www.ibm.com/developerworks/cloud/library/cl-blockchainbasics-glossary-bluemix-trs/index.html
 
+## Tags
+
 Tag: BlockchainArchitecture

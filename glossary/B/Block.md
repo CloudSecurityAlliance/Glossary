@@ -6,4 +6,6 @@ blockchain. Because of this there is no way for someone to tamper with the
 system and add their own "custom" block to the chain.
 Source: https://99bitcoins.com/bitcoin-glossary-faq/
 
+## Tags
+
 Tag: BlockchainArchitecture

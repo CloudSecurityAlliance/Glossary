@@ -7,3 +7,10 @@ occurs when two or more miners find blocks at nearly the same time. Can also
 happen as part of an attack.
 Source: https://bitcoin.org/en/glossary/soft-fork
 
+## Related Terms
+
+Soft fork, hard fork
+
+## Tags
+
+Tag: BlockchainArchitecture

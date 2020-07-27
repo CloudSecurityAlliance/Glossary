@@ -1,3 +1,5 @@
 # Chain
 
+## Tags
+
 Tag: BlockchainArchitecture

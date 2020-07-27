@@ -11,3 +11,6 @@ while validators fully download and track a few shards that they are assigned
 to at some particular time.
 Source: https://diyhpl.us/wiki/transcripts/scalingbitcoin/sharding-theblockchain/ and https://github.com/ethereum/wiki/wiki/Sharding-FAQ
 
+## Tags
+
+Tag: BlockchainArchitecture

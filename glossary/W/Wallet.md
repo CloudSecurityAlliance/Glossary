@@ -24,3 +24,7 @@ Multi-signature wallet
 Non-deterministic wallet
 Shared Wallet
 Warm wallet
+
+## Tags
+
+Tag: BlockchainArchitecture

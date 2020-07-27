@@ -5,3 +5,6 @@ about blocks, addresses, and transactions on the Bitcoin blockchain. The
 source code is on GitHub.
 Source: https://blockexplorer.com/
 
+## Tags
+
+Tag: BlockchainArchitecture

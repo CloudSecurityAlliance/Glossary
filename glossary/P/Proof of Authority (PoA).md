@@ -12,3 +12,6 @@ all of the blocks in the blockchain.
 Source: https://github.com/ethcore/parity/wiki/Proof-of-Authority-Chains and
 https://blockchainhub.net/glossary/
 
+## Tags
+
+Tag: BlockchainArchitecture

@@ -6,3 +6,6 @@ variable is added to the hashing process to make it more difficult. When a
 block is successfully hashed, the hashing must have taken some time and
 computational effort. Thus, a hashed block is considered proof of work.
 
+## Tags
+
+Tag: BlockchainArchitecture

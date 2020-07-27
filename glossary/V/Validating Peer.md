@@ -7,3 +7,6 @@ the block and therefore, not written to the ledger. A validating peer (VP) has
 authority to deploy, invoke and query chaincode.
 Source: https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_overview.html
 
+## Tags
+
+Tag: BlockchainArchitecture

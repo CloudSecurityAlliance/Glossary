@@ -2,4 +2,6 @@
 
 Please also Direct Participation
 
-Tags: BlockchainArchitecture
+## Tags
+
+Tag: BlockchainArchitecture
