@@ -5,3 +5,6 @@ considered far less secure than cold storage since they can be hacked easier
 due to their connectivity.
 Source: https://99bitcoins.com/bitcoin-glossary-faq/
 
+## Tags
+
+Tag: BlockchainArchitecture
