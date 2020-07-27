@@ -6,3 +6,6 @@ are implemented through the chaincode functions set forth in the fabric’s
 API contract.
 Source: https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_overview.html
 
+## Tags
+
+Tag: BlockchainArchitecture
