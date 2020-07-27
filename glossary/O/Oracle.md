@@ -1,0 +1,5 @@
+# Oracle
+
+## Tags
+
+Tag: BlockchainArchitecture
