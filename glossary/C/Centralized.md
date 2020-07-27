@@ -1,3 +1,9 @@
 # Centralized
 
-Related: see Decentralized
+## Related Terms
+
+Decentralized
+
+## Tags
+
+Tag: BlockchainArchitecture
