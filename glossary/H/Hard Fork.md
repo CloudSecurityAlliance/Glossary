@@ -11,3 +11,6 @@ In order to continue existing ETC needs miners, which would validate the
 transactions on the blockchain.
 Source: https://bitcoin.org/en/glossary/hard-fork and https://blockchainhub.net/glossary/
 
+## Tags
+
+Tag: BlockchainArchitecture
