@@ -6,3 +6,4 @@ A beacon chain contains records covering activities in a sharded chain, the beac
 
 Tag: BlockchainArchitecture
 Graph:BeaconChain -->|sends transactions to|MainChain[Main Chain]
+Graph:BeaconChain -->|receives transactions from|ShardChain[Shard Chain]
