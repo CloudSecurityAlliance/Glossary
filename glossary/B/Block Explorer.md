@@ -8,3 +8,8 @@ Source: https://blockexplorer.com/
 ## Tags
 
 Tag: BlockchainArchitecture
+Graph:BlockExplorer -->|views transactions in|BeaconChain[Beacon Chain]
+Graph:BlockExplorer -->|views transactions in|Blockchain[Blockchain]
+Graph:BlockExplorer -->|views transactions in|MainChain[Main Chain]
+Graph:BlockExplorer -->|views transactions in|ShardChain[Shard Chain]
+Graph:BlockExplorer -->|views transactions in|Transaction[Transaction]

@@ -8,6 +8,9 @@ Source: http://www.blockchaintechnologies.com/blockchain-mining
 ## Tags
 
 Tag: BlockchainArchitecture
+Graph:Miner -->|creates next|Block[Block]
+Graph:Miner -->|can create a|HardFork[Hard Fork]
+Graph:Miner -->|can create a|SoftFork[Soft Fork]
 Graph:Miner -->|earns|MiningReward[Mining Reward]
 Graph:Miner -->|can be a member of|MiningPool[Mining Pool]
 Graph:Miner -->|reads from|Mempool[Mempool]
