@@ -10,3 +10,7 @@ verifiable and permanent way. The ledger itself can also be programmed to
 trigger transactions automatically.
 Source: https://en.wikipedia.org/wiki/Blockchain_(database)
 
+## Tags
+
+Tag: BlockchainArchitecture
+Graph:Blockchain -->|uses a|Consensus[Consensus]
