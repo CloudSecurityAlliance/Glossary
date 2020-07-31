@@ -8,3 +8,4 @@ Source: https://bitcoin.org/en/glossary/soft-fork
 ## Tags
 
 Tag: BlockchainArchitecture
+Graph:HardFork -->|resolved via|Consensus[Consensus]
