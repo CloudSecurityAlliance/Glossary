@@ -8,6 +8,7 @@ Source: http://www.ibm.com/developerworks/cloud/library/cl-blockchainbasics-glos
 
 Tag: BlockchainArchitecture
 Graph:Node -->|hosts|BlockchainNetwork[Blockchain Network]
+Graph:Node -->|executes|SmartContract[Smart Contract]
 
 # Node (Programming language)
 
