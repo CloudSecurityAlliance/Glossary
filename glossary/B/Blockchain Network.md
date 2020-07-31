@@ -11,3 +11,5 @@ Source: http://www.ibm.com/developerworks/cloud/library/cl-blockchainbasics-glos
 ## Tags
 
 Tag: BlockchainArchitecture
+Graph:BlockchainNetwork -->|can|SoftFork[Soft Fork]
+Graph:BlockchainNetwork -->|can|HardFork[Hard Fork]

@@ -7,6 +7,7 @@ Source: http://www.ibm.com/developerworks/cloud/library/cl-blockchainbasics-glos
 ## Tags
 
 Tag: BlockchainArchitecture
+Graph:Node -->|hosts|BlockchainNetwork[Blockchain Network]
 
 # Node (Programming language)
 
