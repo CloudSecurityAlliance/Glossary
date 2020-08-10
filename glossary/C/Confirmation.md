@@ -6,4 +6,8 @@ system (e.g. Bitcoin). Once a transaction is confirmed, it cannot be reversed
 or double spent. The more confirmations a transaction has, the harder it
 becomes to perform a double spend attack.
 
+## Related Terms
 
+Confirmed
+Confirmed Block
+Confirmed Transaction
