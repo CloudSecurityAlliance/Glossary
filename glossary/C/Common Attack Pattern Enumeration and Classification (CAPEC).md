@@ -6,5 +6,5 @@ https://cve.mitre.org/cve_cwe_capec_relationships
 
 ## Tags
 
-Tag: SecurityStandard
+Category:SecurityStandard
 Graph:CAPEC -->|entry can contain one or more|CWE[Common Weakness Enumeration CWE]
