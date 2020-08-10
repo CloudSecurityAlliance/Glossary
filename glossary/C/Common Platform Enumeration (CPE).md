@@ -5,4 +5,4 @@ CPE is a structured naming scheme for information technology systems, software, 
 ## Tags
 
 Source_URL:https://nvd.nist.gov/products/cpe
-Tag: SecurityStandard
+Category:SecurityStandard
