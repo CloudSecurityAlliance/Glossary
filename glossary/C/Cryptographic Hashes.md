@@ -12,3 +12,6 @@ indicates potentially compromised transaction input. Thus, the hash value can
 be used to detect the integrity of the transaction input.
 Source: http://www.ibm.com/developerworks/cloud/library/cl-blockchainbasics-glossary-bluemix-trs/index.html
 
+## Related Terms
+
+Cryptographic hash function

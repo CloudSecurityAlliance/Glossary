@@ -1,6 +1,6 @@
-# Decentralized Apps (DAPPS)
+# Decentralized App (DAPP)
 
-are a type of software program designed to exist on the Internet in a way that is
+Decentralized App (DAPP) are a type of software program designed to exist on the Internet in a way that is
 not controlled by any single entity. For an application to be considered a Dapp it
 must meet the following criteria:
 Application must be completely open-source - It must operate autonomously,
@@ -16,4 +16,3 @@ Application must generate tokens - according to a standard cryptographic
 algorithm acting as a proof of the value nodes are contributing to the application
 (Bitcoin uses the Proof of Work Algorithm).
 Source: https://blockchainhub.net/dapps/
-
