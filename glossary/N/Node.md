@@ -6,7 +6,7 @@ Source: http://www.ibm.com/developerworks/cloud/library/cl-blockchainbasics-glos
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:Node -->|hosts|BlockchainNetwork[Blockchain Network]
 Graph:Node -->|executes|SmartContract[Smart Contract]
 

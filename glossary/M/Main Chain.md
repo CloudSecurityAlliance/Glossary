@@ -2,5 +2,5 @@
 
 # Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:MainChain -->|receives transactions from|BeaconChain[Beacon Chain]

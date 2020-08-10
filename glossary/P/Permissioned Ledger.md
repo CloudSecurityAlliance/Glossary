@@ -12,4 +12,4 @@ faster than an unpermissioned ledger.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

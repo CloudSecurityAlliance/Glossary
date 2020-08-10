@@ -6,4 +6,4 @@ every 2016 blocks. This is to keep block verification time at ten minutes.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

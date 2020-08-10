@@ -8,7 +8,7 @@ Source: https://99bitcoins.com/bitcoin-glossary-faq/
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:Block -->|entered into|Blockchain[Blockchain]
 Graph:Block -->|entered into|BeaconChain[Beacon Chain]
 Graph:Block -->|entered into|MainChain[Main Chain]

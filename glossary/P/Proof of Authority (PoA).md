@@ -14,4 +14,4 @@ https://blockchainhub.net/glossary/
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

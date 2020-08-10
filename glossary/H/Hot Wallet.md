@@ -7,4 +7,4 @@ Source: https://99bitcoins.com/bitcoin-glossary-faq/
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

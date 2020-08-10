@@ -7,7 +7,7 @@ Source: https://blockexplorer.com/
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:BlockExplorer -->|views transactions in|BeaconChain[Beacon Chain]
 Graph:BlockExplorer -->|views transactions in|Blockchain[Blockchain]
 Graph:BlockExplorer -->|views transactions in|MainChain[Main Chain]

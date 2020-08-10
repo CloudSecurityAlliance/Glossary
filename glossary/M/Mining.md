@@ -6,4 +6,4 @@ also triggers the release of cryptocurrencies.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

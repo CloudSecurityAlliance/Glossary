@@ -2,5 +2,5 @@
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:ShardChain -->|sends transactions to|BeaconChain[Beacon Chain]

@@ -7,5 +7,5 @@ Source: https://bitcoin.org/en/glossary/soft-fork
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:HardFork -->|resolved via|Consensus[Consensus]

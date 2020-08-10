@@ -13,5 +13,5 @@ Source: http://www.blockchaintechnologies.com/blockchain-smartcontracts#smart-co
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:SmartContract -->|makes use of|Oracle[Oracle]

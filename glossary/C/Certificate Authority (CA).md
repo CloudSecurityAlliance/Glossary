@@ -2,4 +2,4 @@
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

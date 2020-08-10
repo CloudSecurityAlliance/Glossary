@@ -4,4 +4,4 @@ Related: see Centralized
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

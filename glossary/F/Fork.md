@@ -13,4 +13,4 @@ Soft fork, hard fork
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
