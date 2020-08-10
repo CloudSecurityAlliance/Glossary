@@ -32,6 +32,7 @@ A list of tags and other labelled data. It is specific to the context it is unde
 
 **Tag examples:**
 
+* Category:Category_Name (multiple entries allowed)
 * DLT_Technology:DLT/Blockchain network
 * DLT_Technology:Block
 * DLT_Technology:Transaction
