@@ -13,5 +13,5 @@ Source: https://bitcoin.org/en/glossary/hard-fork and https://blockchainhub.net/
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:HardFork -->|results in a new|MainChain[Main Chain]

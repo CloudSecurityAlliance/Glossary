@@ -7,7 +7,7 @@ Source: http://www.blockchaintechnologies.com/blockchain-mining
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:Miner -->|creates next|Block[Block]
 Graph:Miner -->|can create a|HardFork[Hard Fork]
 Graph:Miner -->|can create a|SoftFork[Soft Fork]

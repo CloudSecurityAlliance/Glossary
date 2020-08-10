@@ -6,4 +6,4 @@ Decentralized
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

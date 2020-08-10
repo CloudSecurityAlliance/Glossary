@@ -4,4 +4,4 @@ Please see "Validating Peer"
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

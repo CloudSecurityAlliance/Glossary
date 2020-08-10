@@ -9,7 +9,7 @@ Source: https://bitcoin.org/en/developer-guide#mining
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:MiningPool -->|creates next|Block[Block]
 Graph:MiningPool -->|can create a|HardFork[Hard Fork]
 Graph:MiningPool -->|can create a|SoftFork[Soft Fork]

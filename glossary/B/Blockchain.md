@@ -12,5 +12,5 @@ Source: https://en.wikipedia.org/wiki/Blockchain_(database)
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:Blockchain -->|uses a|Consensus[Consensus]

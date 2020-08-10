@@ -8,6 +8,6 @@ Source: https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_ov
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
 Graph:Transaction -->|is sent to|Mempool[Mempool]
 Graph:Transaction -->|contains a|TransactionFee[Transaction Fee]

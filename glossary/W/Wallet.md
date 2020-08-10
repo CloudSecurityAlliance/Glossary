@@ -27,4 +27,4 @@ Warm wallet
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

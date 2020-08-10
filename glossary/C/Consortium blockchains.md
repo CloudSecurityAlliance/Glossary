@@ -14,4 +14,4 @@ Source: https://blog.ethereum.org/2015/08/07/on-public-and-privateblockchains/
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

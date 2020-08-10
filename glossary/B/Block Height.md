@@ -6,4 +6,4 @@ the Genesis Block.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

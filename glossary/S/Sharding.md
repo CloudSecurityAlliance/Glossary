@@ -13,4 +13,4 @@ Source: https://diyhpl.us/wiki/transcripts/scalingbitcoin/sharding-theblockchain
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

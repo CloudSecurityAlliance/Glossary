@@ -9,4 +9,4 @@ Source: https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_ov
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

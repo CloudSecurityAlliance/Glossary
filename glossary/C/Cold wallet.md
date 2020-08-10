@@ -3,4 +3,4 @@ Needs content update.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

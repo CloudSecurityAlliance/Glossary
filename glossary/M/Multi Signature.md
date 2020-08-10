@@ -7,4 +7,4 @@ greater resistance to theft.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture

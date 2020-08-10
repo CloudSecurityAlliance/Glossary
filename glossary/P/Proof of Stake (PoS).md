@@ -6,4 +6,4 @@ calculate the amount of that currency that you can mine.
 
 ## Tags
 
-Tag: BlockchainArchitecture
+Category:BlockchainArchitecture
