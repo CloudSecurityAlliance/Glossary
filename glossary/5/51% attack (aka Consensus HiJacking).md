@@ -11,4 +11,4 @@ Source: https://99bitcoins.com/bitcoin-glossary-faq/
 ## Tags
 
 Category:BlockchainAttack
-Graph:51%Attack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
+Graph:51Attack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
