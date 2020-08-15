@@ -1,4 +1,4 @@
-# Two-Factor Authentication (2FA) via Hardware Token
+# Two-Factor Authentication (2FA) via Software Token
 
 A common two-factor authentication strategy is to have the user either generate a one time code on their end using a software token. The token software token simply generate a one time code that the user types in are vulnerable to phishing attacks.
 
@@ -7,4 +7,5 @@ There are newer software token software systems such as Google Smart Lock, Auth0
 # Tags
 
 Category:BlockchainSecurityModel
-Graph:Two-FactorAuthenticationviaSMS -->|defense against|PasswordTheft[Password Theft]
+Graph:Two-FactorAuthenticationviaSoftwareToken -->|defense against|PasswordTheft[Password Theft]
+Graph:Two-FactorAuthenticationviaSoftwareToken -->|defense against|SimSWAP[Sim SWAP]
