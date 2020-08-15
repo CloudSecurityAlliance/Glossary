@@ -6,3 +6,4 @@ A rare two-factor authentication strategy is to require a biometric authenticati
 # Tags
 
 Category:BlockchainSecurityModel
+Graph:Two-FactorAuthenticationviaSMS -->|defense against|PasswordTheft[Password Theft]

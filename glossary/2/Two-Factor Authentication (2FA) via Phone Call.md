@@ -5,3 +5,4 @@ A common two-factor authentication strategy is to make a phone call to the end u
 # Tags
 
 Category:BlockchainSecurityModel
+Graph:Two-FactorAuthenticationviaSMS -->|defense against|PasswordTheft[Password Theft]
