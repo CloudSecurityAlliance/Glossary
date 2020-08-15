@@ -5,3 +5,4 @@ Two-Factor authentication simply requires 2 factors to authenticate such as a pa
 # Tags
 
 Category:BlockchainSecurityModel
+Graph:Two-FactorAuthentication -->|defense against|PasswordTheft[Password Theft]

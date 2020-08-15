@@ -7,3 +7,4 @@ There are newer software token software systems such as Google Smart Lock, Auth0
 # Tags
 
 Category:BlockchainSecurityModel
+Graph:Two-FactorAuthenticationviaSMS -->|defense against|PasswordTheft[Password Theft]
