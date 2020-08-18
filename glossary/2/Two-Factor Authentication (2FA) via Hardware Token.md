@@ -4,6 +4,6 @@ A common two-factor authentication strategy is to have the user either generate 
 
 # Tags
 
-Category:BlockchainSecurityModel
+Category:BlockchainAccountSecurityModel
 Graph:Two-FactorAuthenticationviaHardwareToken -->|defense against|PasswordTheft[Password Theft]
 Graph:Two-FactorAuthenticationviaHardwareToken -->|defense against|SimSWAP[Sim SWAP]
