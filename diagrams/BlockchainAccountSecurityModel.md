@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-BlockchainSecurityModel(BlockchainSecurityModel)
+BlockchainAccountSecurityModel(BlockchainAccountSecurityModel)
 SimSWAP -->|attack against|Two-FactorAuthenticationviaPhoneCall[Two-Factor Authentication 2FA via Phone Call]
 SimSWAP -->|attack against|Two-FactorAuthenticationviaSMS[Two-Factor Authentication 2FA via SMS]
 Two-FactorAuthentication -->|defense against|PasswordTheft[Password Theft]
