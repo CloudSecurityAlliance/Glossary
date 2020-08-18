@@ -4,6 +4,6 @@ A common two-factor authentication strategy is to send one time codes via email 
 
 # Tags
 
-Category:BlockchainSecurityModel
+Category:BlockchainAccountSecurityModel
 Graph:Two-FactorAuthenticationviaEmail -->|defense against|PasswordTheft[Password Theft]
 Graph:Two-FactorAuthenticationviaEmail -->|defense against|SimSWAP[Sim SWAP]
