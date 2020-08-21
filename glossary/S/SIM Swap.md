@@ -7,3 +7,4 @@ A SIM Swap is an attack where an attacker tricks a phone company (via phishing, 
 Category:BlockchainAccountSecurityModel
 Graph:SimSWAP -->|attack against|Two-FactorAuthenticationviaPhoneCall[Two-Factor Authentication 2FA via Phone Call]
 Graph:SimSWAP -->|attack against|Two-FactorAuthenticationviaSMS[Two-Factor Authentication 2FA via SMS]
+Source_URL:https://www.coindesk.com/sim-cards-hacks-twitter
