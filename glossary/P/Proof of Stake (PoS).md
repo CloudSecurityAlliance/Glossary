@@ -7,3 +7,4 @@ calculate the amount of that currency that you can mine.
 ## Tags
 
 Category:BlockchainArchitecture
+Category:BlockchainConsensus

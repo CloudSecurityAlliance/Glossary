@@ -15,3 +15,4 @@ https://blockchainhub.net/glossary/
 ## Tags
 
 Category:BlockchainArchitecture
+Category:BlockchainConsensus

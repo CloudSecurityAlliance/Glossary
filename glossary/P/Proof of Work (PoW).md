@@ -9,3 +9,4 @@ computational effort. Thus, a hashed block is considered proof of work.
 ## Tags
 
 Category:BlockchainArchitecture
+Category:BlockchainConsensus
