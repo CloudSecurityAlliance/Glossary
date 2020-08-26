@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
 BlockchainSecurity(BlockchainSecurity)
 51Attack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
 ChainLocks -->|defense against|51Attack[51% Attack]

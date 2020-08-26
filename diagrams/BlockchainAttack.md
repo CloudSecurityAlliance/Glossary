@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
 BlockchainAttack(BlockchainAttack)
 34Attack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
 51Attack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]

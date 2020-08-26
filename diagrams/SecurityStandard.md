@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
 SecurityStandard(SecurityStandard)
 ATT&CK -->|entry can contain one or more|CAPEC[Common Attack Pattern Enumeration and Classification CAPEC]
 CAPEC -->|entry can contain one or more|CWE[Common Weakness Enumeration CWE]
