@@ -4,7 +4,6 @@ PirlGuard is a defensive mechanism that helps prevent 51% Attacks by penalizing 
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Category:BlockchainSecurity
 Source_URL:https://medium.com/pirl/pirlguard-innovative-solution-against-51-attacks-87dd45aa1109

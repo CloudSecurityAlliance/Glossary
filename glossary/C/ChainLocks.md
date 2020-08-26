@@ -4,7 +4,6 @@ ChainLocks is a defensive mechanism that helps prevent 51% Attacks by having the
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Category:BlockchainSecurity
 Source_URL:https://blog.dash.org/mitigating-51-attacks-with-llmq-based-chainlocks-7266aa648ec9
