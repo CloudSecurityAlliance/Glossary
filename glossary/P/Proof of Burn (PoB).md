@@ -1,6 +1,6 @@
 # Proof of Burn (PoB)
 
-Proof of Burn involves prooving that some digital asset has been "destroyed."
+Proof of Burn involves proving that some digital asset has been "destroyed."
 
 ## Tags
 
