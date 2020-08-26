@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
 BlockchainArchitecture(BlockchainArchitecture)
 BeaconChain -->|receives transactions from|ShardChain[Shard Chain]
 BeaconChain -->|sends transactions to|MainChain[Main Chain]
