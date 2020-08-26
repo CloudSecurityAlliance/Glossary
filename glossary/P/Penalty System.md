@@ -4,7 +4,6 @@ A Penalty System is a defensive mechanism that helps prevent 51% Attacks by simp
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Category:BlockchainSecurity
 Source_URL:https://www.horizen.io/assets/files/A-Penalty-System-for-Delayed-Block-Submission-by-Horizen.pdf

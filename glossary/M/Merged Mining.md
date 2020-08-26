@@ -10,7 +10,6 @@ Source: https://www.cryptocompare.com/mining/guides/what-is-mergedmining-bitcoin
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Category:BlockchainSecurity
 Source_URL:https://blog.dash.org/mitigating-51-attacks-with-llmq-based-chainlocks-7266aa648ec9
