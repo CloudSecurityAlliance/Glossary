@@ -4,6 +4,7 @@ In simple terms a credential stuffing attack is when an attacker gains access to
 
 ## Tags
 
+Category:BlockchainAccountSecurityModel
 Category:BlockchainAttack
 Category:BlockchainSecurity
 Graph:CredentialStuffingAttack -->|results in|PasswordTheftAttack[Password Theft Attack]
