@@ -5,4 +5,5 @@ A common two-factor authentication strategy is to send one time codes or a singl
 # Tags
 
 Category:BlockchainAccountSecurityModel
+Category:BlockchainSecurity
 Graph:Two-FactorAuthenticationviaPhysicalMail -->|defense against|PasswordTheft[Password Theft]

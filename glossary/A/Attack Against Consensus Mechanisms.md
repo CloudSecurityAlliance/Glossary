@@ -9,3 +9,4 @@ Additionally there are attacks that can aid in reducing the complexity and resou
 ## Tags
 
 Category:BlockchainAttack
+Category:BlockchainSecurity
