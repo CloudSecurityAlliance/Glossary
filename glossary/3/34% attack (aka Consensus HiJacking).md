@@ -5,5 +5,6 @@ A 34% attack is generally applicable in Blockchain/DLT networks using Byzantine 
 ## Tags
 
 Category:BlockchainAttack
+Category:BlockchainConsensus
 Category:BlockchainSecurity
 Graph:34Attack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
