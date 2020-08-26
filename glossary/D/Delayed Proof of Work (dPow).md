@@ -6,6 +6,7 @@ Delayed Proof of Work (dPoW) is a security solution that essentially uses notary
 
 Category:BlockchainArchitecture
 Category:BlockchainConsensus
+Category:BlockchainSecurity
 Source_URL:https://academy.binance.com/blockchain/delayed-proof-of-work-explained
 Graph:DelayedProofofWorkdPoW -->|defense against|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
 Graph:DelayedProofofWorkdPoW -->|defense against|51Attack[51% Attack]
