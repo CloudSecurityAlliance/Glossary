@@ -1,4 +1,4 @@
-# Proof-of-Work (PoW)
+# Proof of Work (PoW)
 
 A system that ties mining capability to computational power. Blocks must be
 hashed, which is in itself an easy computational process, but an additional
@@ -19,3 +19,4 @@ These are essentially proof of work mechanisms that rely on storage rather than 
 
 Category:BlockchainArchitecture
 Category:BlockchainConsensus
+Graph:ProofofWork -->|type of|ConsensusMechanism[Consensus Mechanism]
