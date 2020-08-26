@@ -5,4 +5,5 @@ On a peer to peer network an attacker can create a large number of fake nodes ak
 ## Tags
 
 Category:BlockchainAttack
+Category:BlockchainConsensus
 Graph:LongRangeAttack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]

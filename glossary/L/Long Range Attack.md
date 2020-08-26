@@ -5,5 +5,6 @@ In theory an attacker can start with the genesis block and mine an entirely new 
 ## Tags
 
 Category:BlockchainAttack
+Category:BlockchainConsensus
 Graph:LongRangeAttack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
 Graph:LongRangeAttack -->|type of attack against|ProofofStakePOS[Proof of Stake POS]

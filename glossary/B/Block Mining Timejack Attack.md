@@ -5,5 +5,6 @@ By isolating a node the time signal can be manipulated getting the victim out of
 ## Tags
 
 Category:BlockchainAttack
+Category:BlockchainConsensus
 Graph:BlockMiningTimejackAttack -->|type of|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
 Graph:BlockMiningTimejackAttack -->|type of|AttackAgainstNode[Attack Against Node]

@@ -7,4 +7,5 @@ Eclipse attacks are a general class of attacks that involve isolating nodes of a
 ## Tags
 
 Category:BlockchainAttack
+Category:BlockchainConsensus
 Graph:EclipseAttack -->|contributes to|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
