@@ -7,5 +7,5 @@ A rare two-factor authentication strategy is to require a biometric authenticati
 
 Category:BlockchainAccountSecurityModel
 Category:BlockchainSecurity
-Graph:Two-FactorAuthenticationviaBiometrics -->|defense against|PasswordTheft[Password Theft]
+Graph:Two-FactorAuthenticationviaBiometrics -->|defense against|PasswordTheftAttack[Password Theft Attack]
 Graph:Two-FactorAuthenticationviaBiometrics -->|defense against|SimSWAP[Sim SWAP]
