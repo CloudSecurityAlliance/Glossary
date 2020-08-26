@@ -5,4 +5,5 @@ A common two-factor authentication strategy is to require a one time code in add
 # Tags
 
 Category:BlockchainAccountSecurityModel
+Category:BlockchainSecurity
 Graph:Two-FactorAuthenticationviaOneTimeCode -->|defense against|PasswordTheft[Password Theft]

@@ -7,5 +7,6 @@ There are newer software token software systems such as Google Smart Lock, Auth0
 # Tags
 
 Category:BlockchainAccountSecurityModel
+Category:BlockchainSecurity
 Graph:Two-FactorAuthenticationviaSoftwareToken -->|defense against|PasswordTheft[Password Theft]
 Graph:Two-FactorAuthenticationviaSoftwareToken -->|defense against|SimSWAP[Sim SWAP]
