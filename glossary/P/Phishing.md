@@ -5,4 +5,4 @@ Phishing is a generalized category of attacks where an attackers asks for inform
 ## Tags
 
 Category:BlockchainAccountSecurityModel
-Graph:Phishing -->|attack against|PasswordTheft[Password Theft]
+Graph:Phishing -->|results in|PasswordTheftAttack[Password Theft Attack]

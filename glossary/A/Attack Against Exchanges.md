@@ -6,3 +6,4 @@ Attacks against Exchanges are popular for two simple reasons: Exchanges host wal
 
 Category:BlockchainAttack
 Category:BlockchainSecurity
+Graph:AttackAgainstExchanges -->|gains access to|HostedWallet[Hosted Wallet]
