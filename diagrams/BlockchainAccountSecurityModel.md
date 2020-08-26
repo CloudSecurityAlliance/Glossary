@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
 BlockchainAccountSecurityModel(BlockchainAccountSecurityModel)
 Phishing -->|attack against|PasswordTheft[Password Theft]
 SimSWAP -->|attack against|Two-FactorAuthenticationviaPhoneCall[Two-Factor Authentication 2FA via Phone Call]
