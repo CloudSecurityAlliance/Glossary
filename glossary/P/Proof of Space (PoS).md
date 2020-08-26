@@ -6,3 +6,4 @@ Some Blockchains also use storage as a form of work (e.g. FileCoin).
 
 Category:BlockchainArchitecture
 Category:BlockchainConsensus
+Graph:ProofofSpace -->|type of|ConsensusMechanism[Consensus Mechanism]

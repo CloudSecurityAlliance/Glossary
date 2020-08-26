@@ -16,3 +16,4 @@ https://blockchainhub.net/glossary/
 
 Category:BlockchainArchitecture
 Category:BlockchainConsensus
+Graph:ProofofAuthority -->|type of|ConsensusMechanism[Consensus Mechanism]
