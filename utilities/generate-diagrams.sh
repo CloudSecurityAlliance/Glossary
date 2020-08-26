@@ -21,7 +21,7 @@ for every_item in ${allCategories[@]}; do
     # Create the file
     #
     echo "\`\`\`mermaid" > $file_name
-    echo "graph TD" >> $file_name
+    echo "graph LR" >> $file_name
     #
     # Apparently we can just put any root node in
     #
