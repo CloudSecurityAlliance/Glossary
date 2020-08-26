@@ -6,4 +6,4 @@ A common two-factor authentication strategy is to send one time codes via SMS to
 
 Category:BlockchainAccountSecurityModel
 Category:BlockchainSecurity
-Graph:Two-FactorAuthenticationviaSMS -->|defense against|PasswordTheft[Password Theft]
+Graph:Two-FactorAuthenticationviaSMS -->|defense against|PasswordTheftAttack[Password Theft Attack]
