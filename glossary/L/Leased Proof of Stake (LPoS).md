@@ -4,6 +4,5 @@ An alternative to the proof-of-work system, Leased Proof of Stake involves leasi
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Graph:LeasedProofofStake -->|type of|ConsensusMechanism[Consensus Mechanism]

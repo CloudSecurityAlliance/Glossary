@@ -4,7 +4,6 @@ delegated Byzantine Fault Tolerant (dBFT) involves citizens which votes for dele
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Graph:delegatedByzantineFaultTolerance -->|type of|ConsensusMechanism[Consensus Mechanism]
 Source_URL:https://medium.com/@marcomanoppo/delegated-byzantine-fault-tolerance-consensus-mechanism-502f9586c358
