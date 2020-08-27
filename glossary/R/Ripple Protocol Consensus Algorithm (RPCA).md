@@ -4,7 +4,6 @@ The Ripple Protocol Consensus Algorithm (RPCA) basically uses a Unique Node List
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Graph:RippleProtocolConsensusAlgorithm -->|type of|ConsensusMechanism[Consensus Mechanism]
 Source_URL:https://ripple.com/files/ripple_consensus_whitepaper.pdf

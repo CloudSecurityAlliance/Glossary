@@ -4,6 +4,5 @@ Practical Byzantine Fault Tolerance (PBFT) is one of the original consensus algo
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Graph:PracticalByzantineFaultTolerance -->|type of|ConsensusMechanism[Consensus Mechanism]

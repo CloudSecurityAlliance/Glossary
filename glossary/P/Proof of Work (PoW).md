@@ -17,6 +17,5 @@ These are essentially proof of work mechanisms that rely on storage rather than 
 
 ## Tags
 
-Category:BlockchainArchitecture
 Category:BlockchainConsensus
 Graph:ProofofWork -->|type of|ConsensusMechanism[Consensus Mechanism]
