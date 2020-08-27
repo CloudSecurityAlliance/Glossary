@@ -54,7 +54,7 @@ A list of tags and other labelled data. It is specific to the context it is unde
 * DLT_Technology:Oracle Client
 * DLT_Technology:Oracle Service
 * DLT_Attack:Attack name here
-* DLT_Incident: DLT Incident name/tag here
-* DLT_Resource: DLT resource name/tag here
-* Source_URL: Source URL
-* Graph: Graph tag in mermaid format (https://github.com/BackMarket/github-mermaid-extension)
+* DLT_Incident:DLT Incident name/tag here
+* DLT_Resource:DLT resource name/tag here
+* Source_URL:Source URL
+* Graph:Graph tag in mermaid format (https://github.com/BackMarket/github-mermaid-extension)

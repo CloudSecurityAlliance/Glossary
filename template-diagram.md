@@ -9,3 +9,5 @@ graph TD;
 ```
 
 This is done using the GitHub + Mermaid browser extension https://github.com/BackMarket/github-mermaid-extension. The chrome extension to render this is at https://chrome.google.com/webstore/detail/github-%20-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe.
+
+Please note all the diagrams in the /diagrams/ directory are generated using a shell script based on the categories tags in entries. 
