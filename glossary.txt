@@ -1,0 +1,395 @@
+Two-Factor Authentication (2FA) via Biometrics
+Two-Factor Authentication (2FA) via Email
+Two-Factor Authentication (2FA) via Hardware Token
+Two-Factor Authentication (2FA) via One Time Code
+Two-Factor Authentication (2FA) via Phone Call
+Two-Factor Authentication (2FA) via Physical Mail
+Two-Factor Authentication (2FA) via SMS
+Two-Factor Authentication (2FA) via Software Token
+Two-Factor Authentication (2FA)
+34% attack (aka Consensus HiJacking)
+51% Attack (aka Consensus HiJacking)
+Acyclic Graph
+Address
+Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)
+Agreement Ledger
+Altcoin
+Anonymity
+Anti-Money Laundering (AML)
+Application Binary Interface (ABI)
+Application Programming Interface (API)
+Application Specific Integrated Circuit (ASIC)
+Asset
+asynchronous Byzantine Fault Tolerance (aBFT)
+Attack Against Consensus Mechanisms
+Attack Against Digital Assets
+Attack Against Exchanges
+Attack Against Governance
+Attack Against Memory Pool
+Attack Against Miners
+Attack Against Mining Nodes
+Attack Against Mining Pools
+Attack Against Oracle Client
+Attack Against Oracle Service
+Attack Against Smart Asset
+Attack Against Smart Contract
+Attack Against Users
+Attack Against Wallets
+Attestation Ledger
+Audit
+Beacon Chain
+Bearer-Negotiable Instrument (BNI)
+Bitcoin - Satoshi Nakamoto
+Bitcoin - Satoshi
+Bitcoin - Wei
+Bitcoin - XBT
+Bitcoin 0.9 Standard Transaction Types
+Bitcoin ATM
+Bitcoin Block Header
+Bitcoin Currency Units
+Bitcoin Currency
+Bitcoin halving
+Bitcoin Payment System
+Bitcoin Transaction Locktime
+Bitcoin Tumbler
+Bitcoin Vanity Address
+Block Data
+Block Explorer
+Block Header
+Block Height
+Block Mining Timejack Attack
+Block Reward
+Block Withholding Attack
+Block
+Blockchain 1.0
+Blockchain 2.0
+Blockchain 3.0
+Blockchain Applications
+Blockchain as a Service (BaaS) Providers
+Blockchain as a Service (BaaS)
+Blockchain Attacks
+Blockchain Developer
+Blockchain Embedded Mining
+Blockchain Hash
+Blockchain Mining Hardware
+Blockchain Mining
+Blockchain Network Operator
+Blockchain Network
+Blockchain Pruning
+Blockchain RTBF Risk
+Blockchain Structure Attack
+Blockchain User
+Blockchain
+BTC
+Business logic layer
+Byzantine Fault Tolerance (BFT)
+Casper
+Central Ledger
+Centralized
+Certificate Authority (CA)
+Certificate Management
+Chain linking
+Chain
+Chaincode Services
+Chaincode Standard Transaction Types
+Chaincode
+ChainLocks
+Chainwashing
+Cloudwashing
+Coin
+Coinhive
+Cold wallet
+Commit
+Common Attack Pattern Enumeration and Classification (CAPEC)
+Common Platform Enumeration (CPE)
+Common Vulnerabilities and Exposures (CVE)
+Common Vulnerability Reporting Framework (CVRF)
+Common Vulnerability Scoring System (CVSS)
+Common Weakness Enumeration (CWE)
+Confirmation
+Confirmed Block
+Confirmed Transaction
+Consensus Algorithms and Protocols Defensive Measures
+Consensus Algorithms and Protocols
+Consensus Delay
+Consensus Mechanism
+Consensus Point
+Consensus
+Consortium blockchains
+Content Delivery Network (CDN)
+Create, Read, Update, Delete (CRUD) Application
+Credential Stuffing Attack
+Cryptocurrency
+Cryptographic Hashes
+Cryptojacking
+CryptoNight
+Custodial Provider
+Customer Due Diligence (CDD)
+Cyclic Graph
+DDoS Attack
+Decentralized Apps (DAPPS)
+Decentralized Autonomous Organization (DAO)
+Decentralized Finance (DeFi)
+Decentralized
+Delayed Proof of Work (dPow)
+delegated Byzantine Fault Tolerant (dBFT)
+Delegated Proof-of-Stake (DPoS)
+Denial of Service (DoS) Attack
+Deposit Contract
+Difficulty
+Digest Access Authentication
+Digital Asset
+Digital Commodity
+Digital Signature
+Direct Participation
+Distributed Database
+Distributed Denial of Service (DDoS) Attack
+Distributed Ledger Technology (DLT) Interoperability
+Distributed Ledger Technology (DLT)
+Distributed System
+DLT Account
+DLT Address
+DLT Network
+DLT Node
+DLT Oracle
+DLT Platform
+DLT System
+DLT User
+Domain Name System (DNS) hijacks
+Double Spending
+Eclipse Attack
+EigenTrust Practical Byzantine Fault Tolerance (T-PBFT)
+Elliptic Curve Cryptography (ECC)
+Elliptic Curve Digital Signature Algorithm (ECDSA) Signatures
+Encryption
+Ethash
+Ether
+Ethereum - Contract Accounts
+Ethereum - Gas
+Ethereum WebAssembly (eWASM)
+Ethereum
+Exchange
+External Accounts (Ethereum)
+Fabric Tier
+Federated Byzantine Agreement (FBA)
+Fiat Currency
+Fiat Gateway
+Finality
+Financial Action Task Force (FATF)
+Flash loan
+Fork
+Genesis Block
+Gossip Protocol
+Hard Fork
+Hash Value
+Hashing
+Hashrate Denominations
+Honey Badger Byzantine Fault Tolerance (HoneyBadgerBFT)
+Hosted Wallet
+Hot Wallet
+Hyperledger
+Identity and Access Management (IAM)
+Immutability
+Increase Block Size
+Increase Block Time
+Indirect Participation
+Initial Coin Offering (ICO)
+Integration Tier
+Intel Software Guard Extensions (SGX)
+Inter-Chain
+Interledger Protocol (ILP)
+Intermediate Certificate Authority (CA)
+Interoperability
+InterPlanetary File System (IPFS)
+Istanbul Byzantine Fault Tolerance (IBFT)
+Joint Consensus
+Key Exposure
+Key Management
+Key Theft
+Know Your Customer (KYC)
+Leaf Node
+Leased Proof of Stake (LPoS)
+Ledger Split
+Ledger
+Libra
+Light Node
+Litecoin
+Long Range Attack
+Main Chain
+Majority Attack
+Malicious Miner
+Marcov Chain Monte Carlo (MCMC)
+Member Node
+Membership Services
+Mempool
+Merged Mining
+Merkle Root
+Merkle Tree
+MH per second (MHsec)
+Miner
+Mining Pool
+Mining Solo
+Mining
+Multi Signature
+Multi-Factor Authentication (MFA)
+Nakamoto Consensus
+Network Routing Attacks
+NIST 800-63
+Node
+Nominated Proof of Stake
+Nonce
+NXT
+Obelisk Consensus Algorithm
+Off Chain Governance
+Off Chain
+Off Ledger
+Off-Ledger Currency
+On Chain Governance
+On Chain
+On Ledger
+On-Ledger Currency
+One-Time Signatures (OTS)
+OpenTransactions Project
+Opportunity loss
+Oracle
+Orphan Block
+Participant
+Password Theft Attack
+Peer Monitoring
+Peer to peer (P2P)
+Peer to Peer Transaction Platforms
+Peer
+Penalty System
+Penetration Testing
+Permissioned Ledger
+Permissionless Ledger
+Persistent Scripts
+Phishing
+PirlGuard
+Practical Byzantine Fault Tolerance (PBFT)
+Pre-Prepare
+Prepare
+Private Blockchain
+Private Key
+Proof of Activity (PoA)
+Proof of Assignment
+Proof of Authority (PoA)
+Proof of Burn (PoB)
+Proof of Capacity (PoC)
+Proof of Elapsed Time (PoET)
+Proof of Formulation (PoF)
+Proof of Importance
+Proof of Space (PoS)
+Proof of Stake (PoS)
+Proof of Trust
+Proof of Vote (PoV)
+Proof of Weight (PoWeight)
+Proof of Work (PoW)
+Provenance
+Prune
+Public Blockchain
+Public Key
+Quick Response (QR) Code
+Quorum
+Raft Consensus Algorithm
+Record
+Recovery
+Replay Attack
+Replicated Ledger
+Reply
+Request
+Resilience
+Reusable Proof of Work (RPoW)
+Ring Signature
+Ripple Protocol Consensus Algorithm (RPCA)
+Ripple
+Robust Proof of Stake
+Root Node
+Routing Awareness
+Synchronized Clocking
+Satoshi Nakamoto
+Satoshi
+Schnorr Signatures
+Script
+Scrypt
+Secrets Management
+Secure Hash Algorithm (SHA)
+Secure Onboarding
+Seed
+Segregated Witness (Segwit)
+SHA-256
+Shard Chain
+Sharding
+Shared Ledger
+Shit Coin
+Short Address
+Sidechain
+Signature Scheme
+Signing
+SIM Swap
+Simple Payment Verification (SPV)
+Simplified Byzantine Fault Tolerance
+Simplified Payment Verification (SPV)
+Smart Contract
+Soft Fork
+Solidity
+Stable Coin
+Staking Pool
+Staking Provider
+State Channel
+State
+Stellar Consensus Protocol (SCP)
+Subchain
+Suspicious Transaction Report (STR)
+Swarm
+Sybil Attack
+Tainted % Bitcoin
+Testnet
+Time-Stamping Blocks
+Timejacking Attack
+Timestamp Blockchain
+Timestamp Trusted
+Timestamp
+Token
+Tokenization
+Tokenless Ledger
+Tokens AssetBacked
+Tokens Intrinsic
+Top Block
+Traditional Data Source
+Transaction Block
+Transaction Fee
+Transaction Record
+Transaction
+Transactions Confirmed (CTXNs)
+Transactions Unconfirmed (UTXNs)
+Transactor
+Transparency
+Trust
+Trusted Stamping Authority (TSA)
+Turing Completeness
+Unbanked
+Unpermissioned (Permissionless) Ledgers
+Unspent Transaction Output (UTXO)
+User Agent
+User-facing application
+Validated
+Validating Peer
+Validation
+Validator Node
+Validator
+Vendor - Altcoins
+Vendors - Blockchain as a Service (BaaS)
+Virgin Bitcoin
+Virtual Asset
+Wallet Distributed Denial-of-Service (DDOS)
+Wallet Hardware
+Wallet theft
+Wallet
+Weak Key Risk
+Whisper (Ethereum)
+World State
+X11
+Zero Confirmation Transaction
+ZeroKnowledge Proofs
+ZkSNARK (Zeroknowledge Succinct Noninteractive ARguments of Knowledge)

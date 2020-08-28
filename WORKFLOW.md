@@ -4,7 +4,7 @@ Files are named as the glossary term they represent, e.g. "Hash Function" would 
 
 The files live in the "glossary/[first character of filename]/" directories.
 
-Please see [glossary-entry-template.md](glossary-entry-template.md) for an example entry and formatting.
+Please see [template-glossary.md](template-glossary.md) for an example entry and formatting.
 
 ## Creating a new entry
 

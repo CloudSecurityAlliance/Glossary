@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # Compares the Glossary-main-list.txt in the local directory against ARGV0 (a text file) and does a fuzzy-wuzzy comparision and generates a report showing the highest match for each word in the new text file
 
@@ -6,7 +6,7 @@ import sys
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
-file_glossary = "Glossary-main-list.txt"
+file_glossary = "glossary.txt"
 
 file_compare=sys.argv[1]
 
