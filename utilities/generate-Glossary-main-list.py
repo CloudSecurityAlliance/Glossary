@@ -1,4 +1,4 @@
-\#!/usr/bin/python
+#!/usr/bin/python
 
 # Generates the Glossary-main-list.txt in the local directory, assumes it is run from Glossary git repo root directory (./glossary/*/*.md basically)
 
