@@ -178,6 +178,7 @@ Finality
 Financial Action Task Force (FATF)
 Flash loan
 Fork
+Front Running Attacks
 Genesis Block
 Gossip Protocol
 Hard Fork
