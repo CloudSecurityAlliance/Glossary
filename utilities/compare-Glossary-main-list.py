@@ -23,7 +23,12 @@ with open(file_compare) as filedata_compare:
 for item_in_compare in lines_compare:
     comparision_results = process.extract(item_in_compare, lines_glossary)
     print(comparision_results)
-# Now to decide how to present them to the user and what to do with them.
+
+
+# Workflow: turn document into a list of words and word count (data.csv)
+# Compare to glossary, results.csv with word, count of word in document, then top 3 matches?
+# have a cut off percentage?
+    
 #
 # How to handle:
 # 1) exact matches (100) of primary file and long term of alias
