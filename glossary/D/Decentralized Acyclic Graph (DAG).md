@@ -6,4 +6,5 @@ DAG based systems are sometimes referred to as "tangle" chains as they often hav
 ## Tags
 
 Category:BlockchainArchitecture
+Category:BlockchainDataStructure
 Graph:DecentralizedAcyclicGraph -->|is a type of data structure for a|Blockchain[Blockchain]
