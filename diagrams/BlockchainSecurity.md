@@ -14,6 +14,7 @@ FrontRunningAttacks -->|type of|AttackAgainstSmartContracts[Attack Against Smart
 FrontRunningAttacks -->|type of|AttackAgainstUsers[Attack Against Users]
 MergedMining -->|defense against|51Attack[51% Attack]
 MergedMining -->|defense against|AttackAgainstConsensusMechanisms[Attack Against Consensus Mechanisms]
+N-VersionProgramming -->|defense against|AttackAgainstSmartContracts[Attack Against Smart Contracts]
 PasswordTheftAttack -->|gains access to|ExchangeAccount[Exchange Account]
 PasswordTheftAttack -->|gains access to|HostedWallet[Hosted Wallet]
 PasswordTheftAttack -->|gains access to|Wallet[Wallet]
