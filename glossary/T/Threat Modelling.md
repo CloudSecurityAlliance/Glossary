@@ -5,3 +5,7 @@ Threat modelling (also known as attack surface modelling) is a process of identi
 # Alternate Terms
 
 * Attack Surface Modelling
+
+# Related Terms
+
+* Threat Taxonomy
