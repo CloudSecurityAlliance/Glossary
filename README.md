@@ -31,3 +31,9 @@ Simply edit the files in the text editor of your choice (I like Atom, it's cross
 Once you have committed your changes to your clone of the repository you can submit a Pull Request (PR) to ask those changes to be included in the main repository "cloudsecurityalliance/Glossary". In GitHub desktop simply hit "Ctrl-R" (on Windows) or "Command-R" (on MacOS) and a PR request window will be opened in the web browser you last used, so make sure it opens in a browser where you can login (or are already logged in) to GitHub. Simply add a commit message if needed and submit it.
 
 A review will be required before your changes are committed to the main branch.
+
+## A note on the diagrams
+
+The diagrams are done using the GitHub + Mermaid browser extension https://github.com/BackMarket/github-mermaid-extension. The chrome extension to render this is at https://chrome.google.com/webstore/detail/github-%20-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe.
+
+Please note all the diagrams in the /diagrams/ directory are generated using a shell script based on the categories tags in entries.
