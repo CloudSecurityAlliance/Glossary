@@ -1,38 +1,33 @@
 # Title goes here
 
-Default description and information goes here. This section is mandatory.
+Default description and information goes here. This section is mandatory. We want 1-5 sentences describing what the term is, and if applicable why we would care about it (e.g. is it a security attack that can result in something bad, a mitigation that can help, or a higher level thing that can be abused like account recovery?).
 
 ## Alternate terms
 
-Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional.
+* Use a bullet list
+* Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional.
 
 ## Related terms
 
-Related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional.
+* Use a bullet list
+* Related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional.
 
 ## Tags
 
 A list of tags and other labelled data.
 
-# Context
+## Category:Category_Name (multiple entries allowed)
 
-Another context for this term, usually in the form TYPE:VALUE such as "DLT_Technology:Wallet". This section is optional.
+* Category:BlockchainAccountSecurityModel
+* Category:BlockchainArchitecture
+* Category:BlockchainAttack
+* Category:BlockchainConsensus
+* Category:BlockchainDataStructure
+* Category:BlockchainSecurity
+* Category:SecurityStandard
 
-## Alternate terms
+## DLT_Technology:Technology_name
 
-Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional. It is specific to the context it is under.
-
-## Related terms
-
-Related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional. It is specific to the context it is under.
-
-## Tags
-
-A list of tags and other labelled data. It is specific to the context it is under.
-
-**Tag examples:**
-
-* Category:Category_Name (multiple entries allowed)
 * DLT_Technology:DLT/Blockchain network
 * DLT_Technology:Block
 * DLT_Technology:Transaction
@@ -58,3 +53,21 @@ A list of tags and other labelled data. It is specific to the context it is unde
 * DLT_Resource:DLT resource name/tag here
 * Source_URL:Source URL
 * Graph:Graph tag in mermaid format (https://github.com/BackMarket/github-mermaid-extension)
+
+---
+
+# Context
+
+Another context for this term, e.g. the default context may be security but there may be a Blockchain specific usage of this term that is different. This section is optional, most terms will only have one primary definition.
+
+## Alternate terms
+
+Alternate terms for an item (e.g. Wallet, Crypto Wallet). This section is optional. It is specific to the context it is under. This section is optional, most terms will only have one primary definition.
+
+## Related terms
+
+Related terms for an item (e.g. Wallet, Cold Wallet, Hot Wallet). This section is optional. It is specific to the context it is under. This section is optional, most terms will only have one primary definition.
+
+## Tags
+
+A list of tags and other labelled data. It is specific to the context it is under. This section is optional, most terms will only have one primary definition.
