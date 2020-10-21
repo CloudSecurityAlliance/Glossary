@@ -13,17 +13,18 @@ Blockchain wallet
 
 ## Related terms
 
-Cold wallet
-Deterministic wallet
+Cold Wallet
+Deterministic Wallet
 Digital Wallet
-Exchange wallet
-Hardware wallet
-Hot wallet
+Exchange Wallet
+Hardware Wallet
+Hot Wallet
 Mobile Payment
-Multi-signature wallet
-Non-deterministic wallet
+Multi-signature Wallet
+Non-deterministic Wallet
+Paper Wallet
 Shared Wallet
-Warm wallet
+Warm Wallet
 
 ## Tags
 
