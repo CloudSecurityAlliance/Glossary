@@ -1,3 +1,5 @@
+This is an example file in markdown, please open it up in raw view to see how the file should be formatted. 
+
 # Title goes here
 
 Default description and information goes here. This section is mandatory. We want 1-5 sentences describing what the term is, and if applicable why we would care about it (e.g. is it a security attack that can result in something bad, a mitigation that can help, or a higher level thing that can be abused like account recovery?).
