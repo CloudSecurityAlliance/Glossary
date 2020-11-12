@@ -16,9 +16,9 @@ Default description and information goes here. This section is mandatory. We wan
 
 ## Tags
 
-A list of tags and other labelled data.
+A list of tags and other labelled data, all tags simply go in the "## Tags" section. Below are some examples of tags:
 
-## Category:Category_Name (multiple entries allowed)
+### Category:Category_Name (multiple entries allowed)
 
 * Category:BlockchainAccountSecurityModel
 * Category:BlockchainArchitecture
@@ -28,7 +28,7 @@ A list of tags and other labelled data.
 * Category:BlockchainSecurity
 * Category:SecurityStandard
 
-## DLT_Technology:Technology_name
+### DLT_Technology:Technology_name
 
 * DLT_Technology:DLT/Blockchain network
 * DLT_Technology:Block
